@@ -8,8 +8,6 @@ Great! Here's your personalized `README.md` for the project folder **`echoes`** 
 
 ## 📁 Folder: `echoes`
 
-👤 GitHub: [@kaiisherebbg](https://github.com/kaiisherebbg)
-
 ## 🧠 About the Game
 
 You are **Candidate #42**, awakened in a shattered sky chamber, suspended above a ruined Earth. A mysterious AI, fragmented memories, and a long-lost sister await as you explore the digital remnants of humanity’s consciousness: **SkyCore**.
