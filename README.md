@@ -26,7 +26,7 @@ Will you escape, rebuild, merge, or end it all?
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kaiisherebbg/echoes
+   git clone https://github.com/kaicodeswell/echoes
    cd echoes
    ```
 
